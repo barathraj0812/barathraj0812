@@ -98,7 +98,7 @@ Parse standard, translated, general and rotated equations. Exact + decimal resul
 
 `JavaScript` `Canvas API` `No Backend` `Touch Input`
 
-[![Hyperbola](https://img.shields.io/badge/Hyperbola-181717?style=flat-square&logo=github)](https://github.com/barathraj0812/Hyperbola-Calculator) [![Ellipse](https://img.shields.io/badge/Ellipse-181717?style=flat-square&logo=github)](https://github.com/barathraj0812/Ellipse-calculator)
+[![Hyperbola Live](https://img.shields.io/badge/Hyperbola_Live-0ea5e9?style=flat-square)](https://hyperbola.pages.dev) [![Ellipse Live](https://img.shields.io/badge/Ellipse_Live-14b8a6?style=flat-square)](https://ellipsecalc.pages.dev)<br/>[![Hyperbola Repo](https://img.shields.io/badge/Hyperbola_Repo-181717?style=flat-square&logo=github)](https://github.com/barathraj0812/Hyperbola-Calculator) [![Ellipse Repo](https://img.shields.io/badge/Ellipse_Repo-181717?style=flat-square&logo=github)](https://github.com/barathraj0812/Ellipse-calculator)
 
 </td>
 <td width="50%" valign="top" align="center">
