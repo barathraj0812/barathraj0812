@@ -13,7 +13,7 @@
 [![AstroTamil](https://img.shields.io/badge/LIVE-AstroTamil-7c3aed?style=for-the-badge&logo=astro&logoColor=white)](https://astrotamil.pages.dev/)
 [![itch.io](https://img.shields.io/badge/PLAY-Solar_System-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white)](https://barathraj08.itch.io/solar-system)
 
-![Profile Views](https://komarev.com/ghpvc/?username=barathraj0812&label=Profile+Views&color=1e3a8a&style=flat-square)
+[![Profile Views](https://hits.sh/github.com/barathraj0812.svg?style=flat-square&label=Profile%20Views&color=1e3a8a)](https://hits.sh/github.com/barathraj0812/)
 
 </div>
 
@@ -182,7 +182,7 @@ Compares Old vs New 2026 electricity tariffs side by side with a slab-by-slab en
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=barathraj0812&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="95%" />
+<img src="https://streak-stats.demolab.com/?user=barathraj0812&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="95%" />
 
 <br/><br/>
 
